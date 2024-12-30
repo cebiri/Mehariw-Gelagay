@@ -1,4 +1,4 @@
-# RD Gatsby London Template
+# RD Executive Template
 
 A custom, image-centric theme for Gatsby.
 
