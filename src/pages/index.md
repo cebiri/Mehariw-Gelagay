@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: [Client's Name]
+pageTitle: Client's Name
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -9,14 +9,14 @@ pageContent: Since joining the web-based **restaurant review** company in its
 learnMoreButton:
   link: /about/
   label: Read More
-subheader: [Client's Subtitle]
+subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
   src: /img/pic-executive-main-banner-01.webp
-  alt: Chandler Villacruz
+  alt: Hero Image for home page
   caption: null
-header: Chandler Villacruz
-metaDescription: [First paragraph of Clients Bio]
+header: Client Name
+metaDescription: First paragraph of Clients Bio
 published: true
 profileButton:
   link: /profile
