@@ -1,11 +1,11 @@
 ---
 templateKey: about-page
 pageSlug: /about
-pageTitle: About {{Client Name}}
-metaDescription: {{First paragraph of client's bio}}
+pageTitle: About Client Name
+metaDescription: First paragraph of client's bio
 published: true
 schemaType: AboutPage
-header: About {{Client Name}}
+header: About Client Name
 subheader: Career highlights past and present
 featuredImage:
   src: /img/pic-executive-banner-profile-01.webp
