@@ -1,15 +1,15 @@
 ---
 templateKey: about-page
 pageSlug: /about
-pageTitle: About Chandler Villacruz
-metaDescription: Biography of Chandler Villacruz, Senior Marketing Manager
+pageTitle: About {{Client Name}}
+metaDescription: {{First paragraph of client's bio}}
 published: true
 schemaType: AboutPage
-header: About Chandler Villacruz
+header: About {{Client Name}}
 subheader: Career highlights past and present
 featuredImage:
   src: /img/pic-executive-banner-profile-01.webp
-  alt: Headshot of Chandler Villacruz
+  alt: Hero Image for About Page
   caption: null
 longBiography_MD: |
   {{long_biography}}
