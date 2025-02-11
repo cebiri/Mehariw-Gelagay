@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Chandler Villacruz, Senior Marketing Executive
+pageTitle: [Client's Name]
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -9,14 +9,14 @@ pageContent: Since joining the web-based **restaurant review** company in its
 learnMoreButton:
   link: /about/
   label: Read More
-subheader: Senior Marketing Executive
+subheader: [Client's Subtitle]
 pageSlug: /
 featuredImage:
   src: /img/pic-executive-main-banner-01.webp
   alt: Chandler Villacruz
   caption: null
 header: Chandler Villacruz
-metaDescription: Personal website of Chandler Villacruz, Senior Marketing Executive.
+metaDescription: [First paragraph of Clients Bio]
 published: true
 profileButton:
   link: /profile
