@@ -3,7 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: Blog Listing Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: A blog is a type of website or online platform where
+  individuals or groups regularly post content, typically in the form of
+  articles, diary entries, or commentary on various topics.
 published: true
 schemaType: WebPage
 header: Blog
@@ -12,6 +14,6 @@ featuredImage:
   alt: Blog
   caption: null
 profileButton:
-  link: /profile
-  label: View Profile
+  link: /
+  label: Home
 ---
