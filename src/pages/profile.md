@@ -8,7 +8,7 @@ published: true
 schemaType: ProfilePage
 header: Client's Name
 featuredImage:
-  src: /img/businesshero1.png
+  src: /img/businesshero2.png
   alt: Hero Image
   caption: null
 connectWithMe: Connect with me
