@@ -8,7 +8,7 @@ published: true
 schemaType: ProfilePage
 header: Client's Name
 featuredImage:
-  src: /img/pic-executive-banner-profile-01.webp
+  src: /img/doctorhero1.png
   alt: Hero Image
   caption: null
 connectWithMe: Connect with me
