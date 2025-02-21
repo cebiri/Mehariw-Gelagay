@@ -16,14 +16,15 @@ featuredImage:
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio
+metaDescription: First paragraph of Clients Bio. That would meet the character
+  count range, and have the clients name in the Meta Data
 published: true
 profileButton:
   link: /profile
-  label: View Profile
+  label: About
 blogButton:
   link: /blog
-  label: Visit My Blog
+  label: Blog
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
@@ -31,4 +32,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
