@@ -2,8 +2,8 @@
 templateKey: profile-page
 pageSlug: /profile
 pageTitle: Profile
-metaDescription: Profile of Chandler Villacruz, Senior Marketing Manager, San
-  Francisco, California, USA
+metaDescription: First paragraph of Clients Bio. That would meet the character
+  count range, and have the clients name in the Meta Data
 published: true
 schemaType: ProfilePage
 header: Client's Name
