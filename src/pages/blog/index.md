@@ -10,7 +10,7 @@ published: true
 schemaType: WebPage
 header: Blog
 featuredImage:
-  src: /img/pic-executive-banner-blog-01.webp
+  src: /img/blogginghero.png
   alt: Blog
   caption: null
 profileButton:
