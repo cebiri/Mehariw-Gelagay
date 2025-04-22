@@ -5,7 +5,7 @@ name: Client Name
 jobTitle: Client's Job Title
 location: City, State, Country
 profileImage:
-  src: /img/about.jpg
+  src: ""
   alt: Client's headshot
 siteUrl: https://url.com
 socialLinks:
