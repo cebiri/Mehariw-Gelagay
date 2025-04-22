@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/desertbackground.png
+  src: /img/skyscraper.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
