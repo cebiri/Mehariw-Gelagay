@@ -2,7 +2,7 @@
 templateKey: gallery-archive
 pageSlug: /gallery
 pageTitle: Gallery
-metaDescription: Gallery Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: A Gallaery is a beautiful way to display photos and fund memories
 published: true
 schemaType: WebPage
 header: Gallery
