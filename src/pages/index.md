@@ -33,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Mehariw Gelagay is a Portland-based care provider. His professional background spans real estate, healthcare, finance, education, and entrepreneurship. In the healthcare sector, Mehariw Gelagay has skills as certified CPR first aid trainer, long-term care, and resident management. He has also become a certified assistant nurse. He currently overseas 3 locations of RoyalCare Employes's and 20 employees.
+With a proven track record of success and a commitment to his clients, Mehariw Gelagay is your trusted real estate partner in Oregon and Washington. As the owner of **Mehari Properties Inc.**, Mehariw brings a wealth of experience to every transaction. He is now proudly affiliated with **Oregon First Realtors** and **Washington First Properties**, continuing his dedication to helping individuals and families achieve their real estate goals.
