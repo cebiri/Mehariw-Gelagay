@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Mehariw Gelagay
+jobTitle: President and Executive Director RoyalCare, Inc.
+location: Portland, OR
 profileImage:
-  src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/mehari.jpeg
+  alt: Mehariw Gelagay
+siteUrl: https://mehari.com/
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://x.com/MehariwG
     label: Visit
     show: true
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/mehariw-gelagay-5838642a7/
     label: Visit
     show: true
   pinterest:
