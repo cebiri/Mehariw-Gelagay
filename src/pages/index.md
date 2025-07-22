@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Mehariw Gelagay
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -16,8 +16,9 @@ featuredImage:
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Mehariw Gelagay is a Portland-based care provider. His
+  professional background spans real estate, healthcare, finance, education, and
+  entrepreneurship.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Mehariw Gelagay is a Portland-based care provider. His professional background spans real estate, healthcare, finance, education, and entrepreneurship. In the healthcare sector, Mehariw Gelagay has skills as certified CPR first aid trainer, long-term care, and resident management. He has also become a certified assistant nurse. He currently overseas 3 locations of RoyalCare Employes's and 20 employees.
