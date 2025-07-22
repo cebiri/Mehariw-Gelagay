@@ -2,16 +2,20 @@
 templateKey: profile-page
 pageSlug: /profile
 pageTitle: Profile
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Mehariw Gelagay is a Portland-based care provider. His
+  professional background spans real estate, healthcare, finance, education, and
+  entrepreneurship. In the healthcare sector, Mehariw Gelagay has skills as
+  certified CPR first aid trainer, long-term care, and resident management. He
+  has also become a certified assistant nurse. He currently overseas 3 locations
+  of RoyalCare Employes's and 20 employees.
 published: true
 schemaType: ProfilePage
-header: Client's Name
+header: Mehariw Gelagay
 featuredImage:
   src: /img/businessbuildings.jpg
   alt: Hero Image
   caption: null
-connectWithMe: State
+connectWithMe: Portland
 pageContent: >-
   # Heading line here
 
@@ -55,34 +59,20 @@ subheader: null
 blogButton:
   label: Blog
   link: /blog
-discoverConnectExplore: City
+discoverConnectExplore: OR
 longBiography_MD: |
   {{long_biography}}
 ---
-# H﻿eader 1
+Mehariw Gelagay is a Portland-based care provider. His professional background spans real estate, healthcare, finance, education, and entrepreneurship. In the healthcare sector, Mehariw Gelagay has skills as certified CPR first aid trainer, long-term care, and resident management. He has also become a certified assistant nurse. He currently overseas 3 locations of RoyalCare Employes's and 20 employees.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse finibus mauris quis nisi tristique, vel elementum mauris placerat. Etiam ante dui, lacinia at finibus eget, venenatis vitae nisi. Curabitur non est nec ex ullamcorper maximus sed ultricies ante. Morbi ligula ex, porta malesuada tincidunt vulputate, venenatis at diam. Integer pharetra tellus euismod, blandit elit at, vulputate orci. Cras vestibulum ante et nunc commodo, vitae efficitur diam mollis. Pellentesque in mattis est. Phasellus at ex nisl.
 
-## H﻿eader 2
 
-Morbi a suscipit turpis, ac maximus massa. Proin at elementum neque, eu mollis turpis. Sed vitae metus in lorem sollicitudin egestas. Phasellus faucibus sodales rhoncus. Nunc eu tempor magna. Curabitur pulvinar lacus sit amet justo congue faucibus. Nulla vulputate tincidunt ornare. Phasellus tristique sed nisl vel efficitur. Sed tristique augue bibendum velit malesuada, ac auctor nunc porttitor. Ut semper fringilla porttitor. Maecenas eu fermentum enim, eu posuere neque.
+In 2020, Mehariw Gelagay served as the executive director of RoyalCare Inc., which continues operations. As the executive director, he adheres to all applicable laws and upholds excellent levels of service and responsibility. He also manages the day-to-day activities of a 24/7 residential center providing support to adults with intellectual and developmental disabilities.
 
-### H﻿eader 3
 
-Mauris sapien purus, laoreet eget dui vel, pulvinar varius justo. Vivamus eget arcu non nisl imperdiet placerat. Donec nunc metus, consectetur id fermentum id, lobortis ut nisl. Duis in viverra libero, sed pulvinar justo. Donec ut sem aliquet, dictum nisl vitae, pretium felis. Vestibulum sapien metus, tincidunt a efficitur blandit, malesuada non tortor. Nam ultricies viverra suscipit. Maecenas at eros eget erat feugiat viverra in ut erat. Nulla vel tincidunt tortor.
 
-#### H﻿eader 4
+Between 2018 and 2020, Mehariw Gelagay founded and served as the operator at MGs Adult Foster Home, which became Priority Care LLC. He established and managed the adult foster care facility, which merged with RoyalCare, Inc.
 
-Phasellus est felis, semper nec efficitur vel, imperdiet id tellus. Duis vitae gravida ante. Nunc vel mollis mi. Donec in odio purus. Nam tempus ornare rutrum. Nulla eu imperdiet eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed luctus mi et semper pretium. Mauris ultricies leo eget blandit laoreet.
 
-##### H﻿eader 5
 
-Donec euismod eget enim id feugiat. Nullam at magna leo. Etiam convallis, massa in volutpat tincidunt, odio leo faucibus ipsum, eget ullamcorper tellus arcu ut leo. Sed convallis non quam ut aliquet. Etiam finibus urna vitae odio malesuada vestibulum. Phasellus mi magna, aliquet quis posuere nec, imperdiet a arcu. In hendrerit auctor felis, ac ultricies diam consequat at. Praesent scelerisque sagittis nunc ut condimentum. Morbi aliquet at nibh nec dictum. Etiam sodales velit risus, eu ultricies lectus ullamcorper et. Phasellus sit amet sapien eu turpis interdum vulputate eget et tortor. In sodales nisl a turpis mattis, id maximus elit cursus. Sed in eros sagittis, tincidunt massa ut, viverra diam.eade
-
-###### H﻿eader 6
-
-Curabitur mattis erat eu arcu scelerisque, vitae condimentum dolor malesuada. Maecenas laoreet leo vel sagittis aliquet. Phasellus lobortis et leo nec egestas. Quisque feugiat nisl quis neque ornare, sed placerat ligula volutpat. Maecenas sit amet scelerisque libero. Sed sit amet nulla quis justo rutrum blandit quis eget dui. Etiam id ipsum molestie, ultrices ligula a, laoreet lorem. Proin interdum porta tellus. Pellentesque ultricies, mi nec sollicitudin pharetra, lorem felis dignissim risus, sed lacinia leo nisl at neque. Morbi vitae massa a urna tempus pellentesque. Sed iaculis accumsan lorem, sit amet dictum ex tempus id. Praesent convallis consequat massa sit amet dictum. Ut et finibus nisl, et tincidunt ipsum. Fusce ex tellus, aliquam sed lacus eget, placerat interdum lorem. Suspendisse porta metus eu sapien dictum, a semper augue faucibus.
-
-Vestibulum non fermentum dui. Suspendisse malesuada viverra est, quis vulputate eros hendrerit eu. Curabitur in metus eget arcu auctor lobortis. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum leo. Quisque malesuada porta ligula, quis venenatis dui cursus ac. In hac habitasse platea dictumst. Phasellus rutrum a tellus vel dictum. Ut vel ipsum non purus eleifend accumsan ut sed sapien. Suspendisse accumsan mi lacus, scelerisque pulvinar tortor imperdiet at. Praesent leo purus, commodo quis semper quis, dictum malesuada odio. Donec non tellus quis dui vulputate gravida. Proin a erat volutpat, blandit eros vitae, sodales ipsum. Nunc consequat sit amet nisi vel dictum.
-
-Duis lobortis fermentum metus, non blandit turpis porttitor vel. Aliquam mollis magna nec cursus interdum. Proin nec purus consectetur, blandit ligula et, pharetra velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius eros sit amet risus sollicitudin, laoreet hendrerit quam bibendum. Suspendisse eros metus, congue in euismod non, aliquam ac tellus. Nam id laoreet metus, et finibus massa. Cras sed nunc ac tellus sollicitudin aliquet. Sed at ante neque.
+In 2015, Mehariw Gelagay served as a caregiver, house manager, and resident manager at Ezra's Adult Foster Home LLC and T&M Adult Foster Home. He cared for individuals with developmental and intellectual challenges. He also managed daily home activities, coordinated appointments, prepared meals, and ensured the proper distribution of medications and medical appointments.
