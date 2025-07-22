@@ -63,16 +63,8 @@ discoverConnectExplore: OR
 longBiography_MD: |
   {{long_biography}}
 ---
-Mehariw Gelagay is a Portland-based care provider. His professional background spans real estate, healthcare, finance, education, and entrepreneurship. In the healthcare sector, Mehariw Gelagay has skills as certified CPR first aid trainer, long-term care, and resident management. He has also become a certified assistant nurse. He currently overseas 3 locations of RoyalCare Employes's and 20 employees.
+With a proven track record of success and a commitment to his clients, Mehariw Gelagay is your trusted real estate partner in Oregon and Washington. As the owner of **Mehari Properties Inc.**, Mehariw brings a wealth of experience to every transaction. He is now proudly affiliated with **Oregon First Realtors** and **Washington First Properties**, continuing his dedication to helping individuals and families achieve their real estate goals.
 
-
-
-In 2020, Mehariw Gelagay served as the executive director of RoyalCare Inc., which continues operations. As the executive director, he adheres to all applicable laws and upholds excellent levels of service and responsibility. He also manages the day-to-day activities of a 24/7 residential center providing support to adults with intellectual and developmental disabilities.
-
-
-
-Between 2018 and 2020, Mehariw Gelagay founded and served as the operator at MGs Adult Foster Home, which became Priority Care LLC. He established and managed the adult foster care facility, which merged with RoyalCare, Inc.
-
-
-
-In 2015, Mehariw Gelagay served as a caregiver, house manager, and resident manager at Ezra's Adult Foster Home LLC and T&M Adult Foster Home. He cared for individuals with developmental and intellectual challenges. He also managed daily home activities, coordinated appointments, prepared meals, and ensured the proper distribution of medications and medical appointments.
+\
+Mehariw's local expertise is further enhanced by his personal experience owning and managing properties in **Portland, Oregon City, and Eugene**. His exceptional service was recognized in 2024 when he was named a **Top Ten Producer** within Oregon First Realtors. When you work with Mehariw, you're partnering with an agent who understands the nuances of the market and prioritizes your success.\
+Mehariw Gelagay is an accredited commercial sales expert as well.
