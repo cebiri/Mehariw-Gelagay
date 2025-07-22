@@ -6,6 +6,4 @@ menuItems:
     label: Home
   - slug: /profile
     label: About
-  - label: gallary
-    slug: /gallery
 ---
